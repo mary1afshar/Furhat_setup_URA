@@ -30,7 +30,7 @@ Developing the user interface for the setup procedure for the Furhat mental heal
 - User research
     1. informal design workshops w group of children - play around with it and get data (better option?)
     2. formal - research study - ethical application, design a full methodology, run the study and write a paper for the study
-- Connecting to the Furhat Website, sending the final JSON back to the Furhat using an API
+- Connecting to the Furhat Robot, sending the final JSON back to the Furhat, given the JSON, the robot will be customized to the users selections
 
 
 ## To Run the Project
