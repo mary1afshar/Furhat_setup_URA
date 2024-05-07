@@ -2,12 +2,11 @@
 
 Developing the user interface for the setup procedure for the Furhat mental health coach to make it suitable for children/teenagers.
 - simple UI, not a lot of text, mostly pictures, easy for children to use
-  
-# Research
-
 - Tech Stack: React
 
-- **Using Gestalt Laws of Perceptual Organization in UI Design**
+# Research
+
+- **Using [Gestalt](https://uxplanet.org/using-gestalt-laws-of-perceptual-organization-in-ui-design-77d4eb8201f9) Laws of Perceptual Organization in UI Design**
     - Gestalt - ‘shape’ or ‘form’
     1. law of similarity
     2. law of symmetry - grouping similarly and symmetry creates stability and order
@@ -18,7 +17,7 @@ Developing the user interface for the setup procedure for the Furhat mental heal
     7. law of closure - close the shapes
     8. common fate principle
 
-- designing for children
+- [designing for children](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/)
     - sound is important
     - Touch can be used to initiate the mouse-over functionality
     - Use large, visually distinct hotspots.
