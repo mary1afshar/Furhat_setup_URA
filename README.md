@@ -17,9 +17,7 @@ Developing the user interface for the setup procedure for the Furhat mental heal
     7. law of closure - close the shapes
     8. common fate principle
 
-- [designing for children](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/)
-
-- Learnings:
+- [designing for children](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/) learnings:
     - sound is important
     - touch can be used to initiate the mouse-over functionality
     - use large, visually distinct hotspots.
