@@ -18,9 +18,11 @@ Developing the user interface for the setup procedure for the Furhat mental heal
     8. common fate principle
 
 - [designing for children](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/)
+
+- Learnings:
     - sound is important
-    - Touch can be used to initiate the mouse-over functionality
-    - Use large, visually distinct hotspots.
+    - touch can be used to initiate the mouse-over functionality
+    - use large, visually distinct hotspots.
     - no hotspots near the edges of the screen
     - no scroll
     - **More images, less text**
